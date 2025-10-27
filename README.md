@@ -4,7 +4,7 @@
 
 **Authors:** Trejo-Castro et al.
 **Corresponding author:** <juanemmanuel@tec.mx> 
-**Affiliation:** <Tecnológico de Monterrey>  
+**Affiliation:** Tecnológico de Monterrey  
 **Year:** 2025
 
 ---
