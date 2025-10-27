@@ -21,14 +21,6 @@ This repository contains the custom scripts written in the R programming languag
 The repository is intended to promote **transparency**, **reproducibility**, and **reusability** of bibliometric and text-mining workflows.
 ---
 
-
-## Repository structure
-repo/
-├─ code/ # R and Python scripts
-├─ data/ # Example and processed data 
-└─ README.md
-
----
 ## Licenses
 
 - **Code:** MIT License (see `LICENSE`)
