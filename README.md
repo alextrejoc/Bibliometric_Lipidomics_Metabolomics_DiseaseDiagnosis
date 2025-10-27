@@ -26,8 +26,6 @@ The repository is intended to promote **transparency**, **reproducibility**, and
 repo/
 ├─ code/ # R and Python scripts
 ├─ data/ # Example and processed data 
-├─ figures/ # Reproducible figures from the article
-├─ results/ # Tables and metrics
 └─ README.md
 
 ---
