@@ -1,7 +1,5 @@
-# Bibliometric and Text-Mining Analysis of Lipidomics and Metabolomics in Disease Diagnosis
-
-## A Bibliometric and Text-Mining Analysis of Lipidomics and Metabolomics in Human Disease Diagnosis
-
+# A Bibliometric and Text-Mining Analysis of Lipidomics and Metabolomics in Human Disease Diagnosis
+ 
 **Authors:** Trejo-Castro et al.
 **Corresponding author:** <juanemmanuel@tec.mx> 
 **Affiliation:** Tecnológico de Monterrey  
@@ -15,7 +13,7 @@ This repository contains the custom scripts written in the R programming languag
 
 > **Trejo-Castro et al. (2025).**  
 > *A Bibliometric and Text-Mining Analysis of Lipidomics and Metabolomics in Human Disease Diagnosis.*  
-> *Frontiers in Molecular Biosciences* (Section: Metabolomics).  
+> *Frontiers in Physiology* (Section: Lipid and Fatty Acid Research).  
 > DOI: [to be added once available].
 
 The repository is intended to promote **transparency**, **reproducibility**, and **reusability** of bibliometric and text-mining workflows.
@@ -42,7 +40,7 @@ If you use this repository, please cite:
 
 > **Trejo-Castro et al. (2025).**  
 > *A Bibliometric and Text-Mining Analysis of Lipidomics and Metabolomics in Human Disease Diagnosis.*  
-> *Frontiers in Molecular Biosciences.* DOI: [to be added].
+> *Frontiers in Physiology.* DOI: [to be added].
 
 Other bibliometric studies from our research group include:
 
